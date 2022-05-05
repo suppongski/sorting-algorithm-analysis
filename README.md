@@ -50,10 +50,13 @@
 ![image](https://user-images.githubusercontent.com/101388182/166858139-65e710e1-8260-4109-98b1-c6cf41181666.png)
 
 ---
-7. **BEST 샘플 그래프**
+7. **BEST 샘플 그래프 (입력갯수: 2<sup>10</sup>)**
+![image](https://user-images.githubusercontent.com/101388182/166858924-0b112763-b4c0-411c-8920-eabc9ed38d0c.png)
 
 ---
-8. **AVERAGE 샘플 그래프**
+8. **RANDOM 샘플 그래프 (입력갯수: 2<sup>10</sup>)**
+![image](https://user-images.githubusercontent.com/101388182/166858933-f611621d-6a99-4930-ae99-495ae7e77250.png)
 
 ---
-9. **WORST 샘플 그래프**  
+9. **WORST 샘플 그래프 (입력갯수: 2<sup>10</sup>)**  
+![image](https://user-images.githubusercontent.com/101388182/166858945-0dac5ec5-30d3-4965-a435-3c29555a286a.png)
