@@ -4,8 +4,9 @@
 
 1. **버블 정렬**
 * 입력갯수(2<sup>5</sup> ~ 2<sup>20</sup>)에 따른 시간측정 그래프
+![image](https://user-images.githubusercontent.com/101388182/166857892-d9d679a3-0e2c-4085-89e3-3333e0eac362.png)
 
-* BEST/AVERAGE/WORST 샘플일때 그래프
+* BEST/RANDOM/WORST 샘플일때 그래프
 
 ---
 2. **힙 정렬**
